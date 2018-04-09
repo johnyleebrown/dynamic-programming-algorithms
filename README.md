@@ -34,6 +34,8 @@
 - [Edit Distance](src/main/java/EditDistance.java)
 - [Longest Increasing Subsequence](src/main/java/LongestIncreasingSubsequence.java)
 - [Can I Win](src/main/java/CanIWin.java)
+- [Soup Servings](src/main/java/SoupServings.java)
+- [Largest Sum Of Averages](src/main/java/LargestSumOfAverages.java)
 
 #### Hard
 
