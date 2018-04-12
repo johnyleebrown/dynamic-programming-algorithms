@@ -36,6 +36,7 @@
 - [Can I Win](src/main/java/CanIWin.java)
 - [Soup Servings](src/main/java/SoupServings.java)
 - [Largest Sum Of Averages](src/main/java/LargestSumOfAverages.java)
+- [Maximum Size Subarray Sum Equals K](src/main/java/MaximumSizeSubarraySumEqualsK.java)
 
 #### Hard
 
