@@ -1,6 +1,4 @@
-# Dynamic Programming
-
-#### Easy
+# Dynamic programming problems solutions
 
 - [Fibonacci](src/main/java/Fibonacci.java)
 - [Tiling Problem](src/main/java/TilingProblem.java)
@@ -11,9 +9,6 @@
 - [Min Cost Climbing Stairs](src/main/java/MinCostClimbingStairs.java)
 - [Paint House](src/main/java/PaintHouse.java)
 - [Paint Fence](src/main/java/PaintFence.java)
-
-#### Medium
-
 - [0-1 Knapsack](src/main/java/Knapsack01.java)
 - [Unbounded Knapsack](src/main/java/UnboundedKnapsack.java)
 - [Coin Change](src/main/java/CoinChange.java)
@@ -37,8 +32,6 @@
 - [Soup Servings](src/main/java/SoupServings.java)
 - [Largest Sum Of Averages](src/main/java/LargestSumOfAverages.java)
 - [Maximum Size Subarray Sum Equals K](src/main/java/MaximumSizeSubarraySumEqualsK.java)
-
-#### Hard
-
 - [Best Time to Buy and Sell Stock K Transactions](src/main/java/BestTimetoBuyandSellStockIV.java)
 - [Split Array With Same Average](src/main/java/SplitArrayWithSameAverage.java)
+- [Minimum Number Of Refueling Stops](src/main/java/MinimumNumberOfRefuelingStops.java)
